@@ -1,0 +1,33 @@
+# POST http://localhost:3000/items HTTP/1.1
+# content-type: application/json
+
+# {
+#     "name": "item 3",
+#     "qty": 2334,
+#     "description": "this is item 3"
+# }
+
+# DELETE  http://localhost:3000/items/123 HTTP/1.1
+
+
+# PUT  http://localhost:3000/items/125
+# content-type: application/json
+
+# {
+#     "name": "item One",
+#     "description": "this is item one",
+#     "qty": 200
+# }
+
+# GET http://localhost:3000/musics
+
+
+# DELETE  http://localhost:3000/items/616be2d473ebc2eeabe26e0f
+
+# PUT  http://localhost:3000/items/616be31d73ebc2eeabe26e11
+# content-type: application/json
+
+# {
+#     "qty": 500
+# }
+

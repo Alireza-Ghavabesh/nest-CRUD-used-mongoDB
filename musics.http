@@ -1,0 +1,29 @@
+# GET http://localhost:3000/musics
+
+
+
+# POST http://localhost:3000/musics
+# Content-Type: application/json
+
+# {
+#     "name": "sanie ha",
+#     "download_url": "test address",
+#     "duration": "03:10"
+# }
+
+
+
+# PUT http://localhost:3000/musics
+# Content-Type: application/json
+
+
+# DELETE http://localhost:3000/musics/616c774fee4879633bb71432 HTTP/1.1
+
+
+# PATCH http://localhost:3000/musics/616c7727ee4879633bb71430
+# Content-Type: application/json
+
+# {
+#     "download_url": "https://dls.music-fa.com/tagdl/downloads/Amin%20Bani%20-%20Sanieha%20(320).mp3",
+#     "duration":  "3:02"
+# }
